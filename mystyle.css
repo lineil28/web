@@ -1,0 +1,19 @@
+body {
+ background-color: gray;
+ font-family: "times new roman";
+}
+
+p {
+  background-color: lightgray;
+  color: black;
+  border-style: solid;
+  border-color: black;
+}
+
+a {
+  color: lightgray;
+}
+
+a:visited {
+  color: darkgray;
+}
