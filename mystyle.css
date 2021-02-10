@@ -1,12 +1,18 @@
 body {
  background-color: gray;
- font-family: "times new roman";
+ font-family: helvetica, arial, sans-serif;
+ border-style: solid;
+ border-color: black;
+}
+
+#home a, a:visited {
+  color: black;
 }
 
 p {
   background-color: lightgray;
   color: black;
-  border-style: solid;
+  border-style: outset;
   border-color: black;
 }
 
@@ -16,4 +22,16 @@ a {
 
 a:visited {
   color: darkgray;
+}
+
+#mainlist ul {
+  text-align: center;
+}
+
+
+#mainlist li {
+    display: inline;
+    width: auto;
+    padding-left: 2%;
+    padding-right: 2%;
 }
