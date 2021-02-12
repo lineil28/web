@@ -20,6 +20,7 @@ h2,h3 {
 }
 
 p {
+  border-radius: 15px;
   margin: 1%;
   padding: 1%;
   background-color: lightgray;
@@ -27,7 +28,7 @@ p {
   border-style: outset;
   border-color: black;
   margin-left: 2%;
-  margin-right: 2%;
+  margin-right: 3%;
 }
 
 a {
@@ -73,8 +74,8 @@ li {
   width: auto;
   padding-left: 2%;
   padding-right: 2%;
-  margin-left: 2.5%;
-  margin-right: 2.5%;
+  margin-left: 2%;
+  margin-right: 2%;
 }
 
 #toc a {
@@ -92,4 +93,10 @@ li {
   width: 9.34%;
   margin-left: -.6%;
   padding-left: -.8%;
+}
+
+#t4pic {
+  margin-top: 2%;
+  margin-bottom: 1%;
+  width: 60%;
 }
