@@ -84,7 +84,7 @@ li {
 
 #jobtree {
   display: inline-block;
-  width: 70%;
+  width: 70.01%;
   padding-left: 10%;
 }
 
@@ -99,4 +99,9 @@ li {
   margin-top: 2%;
   margin-bottom: 1%;
   width: 60%;
+}
+
+#jobh2 {
+  color: black;
+  text-decoration: underline;
 }
