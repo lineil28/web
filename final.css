@@ -1,0 +1,28 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: helvetica, arial, sans-serif;
+}
+
+h1 {
+  margin-left:1%;
+}
+
+h3 {
+  margin-left: 2%;
+}
+
+p {
+  margin-left: 3%;
+  margin-right: 4%;
+}
+
+ul{
+  margin-left: 1%;
+}
+
+a, a:visited{
+  margin-left: 3%;
+  margin-right: 4%;
+  color: white;
+}

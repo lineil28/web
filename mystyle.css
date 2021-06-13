@@ -84,16 +84,12 @@ li {
 
 #jobtree {
   display: inline-block;
-  width: 70.01%;
-  padding-left: 10%;
+  width: 80%;
+  padding: 1%;
+  padding-left: 9%;
+  padding-right: 9%;
 }
 
-#doramtree {
-  display: inline-block;
-  width: 9.34%;
-  margin-left: -.6%;
-  padding-left: -.8%;
-}
 
 .t4pic {
   margin-top: 2%;
