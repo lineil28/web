@@ -21,8 +21,10 @@ ul{
   margin-left: 1%;
 }
 
-a, a:visited{
+table {
   margin-left: 3%;
-  margin-right: 4%;
+}
+
+a, a:visited{
   color: white;
 }
